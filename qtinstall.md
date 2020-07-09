@@ -20,12 +20,8 @@ https://visualstudio.microsoft.com/ko/vs/community/
 
 - C++을 사용한 데스크톱 개발
 
-1. 가
+cpp 참고 : ntu.edu.sg/home/ehchua/programming/cpp/cp0_Introduction.html
 
-2. 나
+# Qt 기초
 
-3. 다
 
-```r
-a<-3
-```
