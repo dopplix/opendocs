@@ -18,3 +18,4 @@ MSVC는 Microsoft Visual Studio를 설치하면 자동으로 설치됨
 
 https://visualstudio.microsoft.com/ko/vs/community/
 
+- C++을 사용한 데스크톱 개발
