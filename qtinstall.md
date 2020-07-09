@@ -27,9 +27,5 @@ https://visualstudio.microsoft.com/ko/vs/community/
 3. 다
 
 ```r
-#include <QListWidget>
-
-void main(){
-
-}
+a<-3
 ```
