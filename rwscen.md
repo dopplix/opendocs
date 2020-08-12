@@ -36,7 +36,7 @@
 
 - 날짜 입력 후 "조회" 버튼 클릭
 
-![8](https://user-images.githubusercontent.com/31100072/89998776-ee6e5700-dcc8-11ea-8f7a-3e79bccec5d8.png)
+![8](https://user-images.githubusercontent.com/31100072/89999165-65a3eb00-dcc9-11ea-9f33-ee23c500106b.png)
 
 - 데이터 수집
 
