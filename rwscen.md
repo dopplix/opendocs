@@ -26,11 +26,13 @@
 
 - 모수추정 방법은 다음의 보고서를 참고
 
-  [모수추정 방법 문서 다운로드]
+  [모수추정 방법 문서 다운로드](https://github.com/dopplix/opendocs/raw/master/report.pdf "report")
   
 # 채권 시나리오
 
-  보증준비금 채권 시나리오는 MEV모형을 사용하며 과거 데이터를 사용하여 산출하며 
+- 보증준비금 채권 시나리오는 MEV모형을 사용하며 과거 데이터를 사용하여 산출하며 모수 추정방식은 보고서의 43페이지를 참고
+
+![26](https://user-images.githubusercontent.com/31100072/90069239-ff50b400-dd2c-11ea-9eff-b3597d1d5a40.png)
 
 ## 데이터 수집
 
@@ -127,6 +129,13 @@
   2. 국내채권형: 엑셀을 사용해 각 셀을 KTB5Y x 0.4 + PFB3Y x 0.6으로 병합
 
 # 주식 시나리오
+
+- 보증준비금의 주식 시나리오는 LN모형을 사용하며 모수 추정 방식은 보고서의 44-47페이지를 참고
+
+![27](https://user-images.githubusercontent.com/31100072/90069734-adf4f480-dd2d-11ea-8aa0-ce303a4d0fe6.png)
+![28](https://user-images.githubusercontent.com/31100072/90069741-b0efe500-dd2d-11ea-9c59-b272eb6c21cf.PNG)
+![29](https://user-images.githubusercontent.com/31100072/90069749-b2211200-dd2d-11ea-8af1-63b316f73126.PNG)
+![30](https://user-images.githubusercontent.com/31100072/90069753-b3ead580-dd2d-11ea-9f02-e5df65612a7c.PNG)
 
 ## 데이터 수집
 
