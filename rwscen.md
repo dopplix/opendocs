@@ -24,7 +24,13 @@
 
   [모수추정 엑셀 다운로드](https://github.com/dopplix/opendocs/raw/master/calib.xlsx "calib")
 
+- 모수추정 방법은 다음의 보고서를 참고
+
+  [모수추정 방법 문서 다운로드]
+  
 # 채권 시나리오
+
+  보증준비금 채권 시나리오는 MEV모형을 사용하며 과거 데이터를 사용하여 산출하며 
 
 ## 데이터 수집
 
