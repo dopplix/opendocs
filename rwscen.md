@@ -28,7 +28,7 @@
 
 ## 데이터 수집
 
-- 금융투자협회 채권정보센터: http://kofiabond.or.kr/
+- 데이터 출처: 금융투자협회 채권정보센터 http://kofiabond.or.kr/
 
 - 시가평가 - 채권시가평가기준수익률
 
@@ -121,5 +121,24 @@
   2. 국내채권형: 엑셀을 사용해 각 셀을 KTB5Y x 0.4 + PFB3Y x 0.6으로 병합
 
 # 주식 시나리오
+
+## 데이터 수집
+
+### 국내데이터
+
+- 데이터 출처: 한국거래소 http://www.krx.co.kr/
+
+- 국내주식형 : KOSPI
+
+![12](https://user-images.githubusercontent.com/31100072/90065456-46d44180-dd27-11ea-8381-65d68b589476.PNG)
+![13](https://user-images.githubusercontent.com/31100072/90065460-48056e80-dd27-11ea-84f8-ab30b3d20012.PNG)
+![14](https://user-images.githubusercontent.com/31100072/90065463-49cf3200-dd27-11ea-9eef-a02e6c10f42b.PNG)
+![15](https://user-images.githubusercontent.com/31100072/90065468-4b005f00-dd27-11ea-8130-d4af29c27e2a.PNG)
+![16](https://user-images.githubusercontent.com/31100072/90065478-4d62b900-dd27-11ea-9919-e0898c0a339f.PNG)
+
+- 국내배당주식형: KOSPI 배당성장 50
+
+
+## 시나리오 산출
 
 # 무위험수익률 시나리오
