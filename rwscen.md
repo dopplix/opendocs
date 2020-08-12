@@ -44,7 +44,7 @@
 
 - 엑셀 
 
-![4](https://user-images.githubusercontent.com/31100072/89999058-486f1c80-dcc9-11ea-8982-a68a6270246b.png)
+![5](https://user-images.githubusercontent.com/31100072/89999647-098d9680-dcca-11ea-9e6e-884c275aa1a7.png)
 
 # 주식 시나리오 산출
 
