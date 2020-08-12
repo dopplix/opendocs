@@ -102,7 +102,7 @@
 
 - 채권 시나리오 생성
 
-  모수집합과 난수의 이름을 맞추어 각 시나리오를 생성
+  모수집합과 난수의 이름을 맞추어 각 시나리오를 생성 
   
   - 듀레이션
   
@@ -133,12 +133,60 @@
 ![12](https://user-images.githubusercontent.com/31100072/90065456-46d44180-dd27-11ea-8381-65d68b589476.PNG)
 ![13](https://user-images.githubusercontent.com/31100072/90065460-48056e80-dd27-11ea-84f8-ab30b3d20012.PNG)
 ![14](https://user-images.githubusercontent.com/31100072/90065463-49cf3200-dd27-11ea-9eef-a02e6c10f42b.PNG)
-![15](https://user-images.githubusercontent.com/31100072/90065468-4b005f00-dd27-11ea-8130-d4af29c27e2a.PNG)
-![16](https://user-images.githubusercontent.com/31100072/90065478-4d62b900-dd27-11ea-9919-e0898c0a339f.PNG)
 
 - 국내배당주식형: KOSPI 배당성장 50
+
+![15](https://user-images.githubusercontent.com/31100072/90065468-4b005f00-dd27-11ea-8130-d4af29c27e2a.PNG)
+![16](https://user-images.githubusercontent.com/31100072/90065478-4d62b900-dd27-11ea-9919-e0898c0a339f.PNG)
+![17](https://user-images.githubusercontent.com/31100072/90065760-b5190400-dd27-11ea-9b04-70d3cee4bc47.PNG)
+
+### 해외데이터
+
+- 블룸버그 티커
+
+  - 해외선진국형: GDDUWI
+  
+  - 해외개도국형: GDUEEGF
+
+### 데이터 입력
+
+![18](https://user-images.githubusercontent.com/31100072/90065927-f5788200-dd27-11ea-8dea-f5c5a0fbe381.PNG)
 
 
 ## 시나리오 산출
 
-# 무위험수익률 시나리오
+- 모수집합 추가 후 이름 입력
+
+  - 국내주식형: KOSPI
+  
+  - 국내배당주식형: GD50
+
+  - 해외선진국형: WORLD
+
+  - 해외개도국형: EM
+
+![20](https://user-images.githubusercontent.com/31100072/90067080-8ef46380-dd29-11ea-9c73-a34ee71c6d45.png)
+
+- 각 데이터에 해당하는 난수 불러오기
+
+![21](https://user-images.githubusercontent.com/31100072/90067091-91ef5400-dd29-11ea-83b4-830b55327c69.png)
+
+- 모수추정 엑셀로부터 산출된 모수 입력
+
+![19](https://user-images.githubusercontent.com/31100072/90067450-16da6d80-dd2a-11ea-983b-a91fd5997d4b.png)
+![22](https://user-images.githubusercontent.com/31100072/90067110-974c9e80-dd29-11ea-9250-83a3af454f6e.png)
+
+- 각 데이터에 해당하는 난수 선택 후 시나리오 생성
+
+![23](https://user-images.githubusercontent.com/31100072/90067131-99aef880-dd29-11ea-82d8-3756c150d587.png)
+
+- 생성결과 
+
+![24](https://user-images.githubusercontent.com/31100072/90067139-9c115280-dd29-11ea-9ae0-be28975c9e2a.png)
+
+# 일반계정 보증준비금 무위험수익률 시나리오
+
+- 금리시나리오 산출 시 생성한 국고5년 금리시나리오를 저장
+
+![25](https://user-images.githubusercontent.com/31100072/90067785-936d4c00-dd2a-11ea-8d07-5c18b1793326.png)
+
