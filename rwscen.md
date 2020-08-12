@@ -22,8 +22,7 @@
 
 - 모수 추정 과정의 이해를 위해 엑셀을 통해 모수를 추정
 
-
-[모수추정 시트](https://github.com/dopplix/opendocs/raw/master/calib.xlsx "calib")
+  [모수추정 시트 다운로드](https://github.com/dopplix/opendocs/raw/master/calib.xlsx "calib")
 
 # 채권 시나리오 산출
 
