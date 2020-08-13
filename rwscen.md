@@ -188,7 +188,7 @@
 
 - 모수추정 엑셀로부터 산출된 모수 입력
 
-![31](https://user-images.githubusercontent.com/31100072/90082870-e277a900-dd4b-11ea-8ef6-4bf14b27f0b3.png)
+![32](https://user-images.githubusercontent.com/31100072/90083655-1eac0900-dd4e-11ea-966d-453f3a569cac.png)
 ![22](https://user-images.githubusercontent.com/31100072/90067110-974c9e80-dd29-11ea-9250-83a3af454f6e.png)
 
 - 각 데이터에 해당하는 난수 선택 후 시나리오 생성
