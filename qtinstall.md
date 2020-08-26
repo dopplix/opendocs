@@ -22,6 +22,10 @@ https://visualstudio.microsoft.com/ko/vs/community/
 
 cpp 참고 : ntu.edu.sg/home/ehchua/programming/cpp/cp0_Introduction.html
 
-# Qt 기초
+# Qt 다운로드
+
+https://www.qt.io/download-qt-installer
+
+
 
 
