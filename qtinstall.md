@@ -42,13 +42,21 @@ MSVC는 Microsoft Visual Studio를 설치하면 자동으로 설치됨
 
 ![4](https://user-images.githubusercontent.com/31100072/91376988-60ae7200-e859-11ea-8f39-93cf76aefd26.PNG)
 
-- 경로 설정
+- 설치 진행
 
 ![5](https://user-images.githubusercontent.com/31100072/91376989-60ae7200-e859-11ea-833d-b6a664ca1620.PNG)
 
-- 설치 진행
+- 경로 설정
 
 ![6](https://user-images.githubusercontent.com/31100072/91376992-61470880-e859-11ea-89f6-8e5d6239586c.PNG)
+
+- 다음의 옵션을 선택
+
+  - TODO: 각 모듈에 대한 설명
+  
 ![7](https://user-images.githubusercontent.com/31100072/91376993-61470880-e859-11ea-9e29-91787ce6d716.PNG)
+
+- 라이센스 동의
+
 ![8](https://user-images.githubusercontent.com/31100072/91376994-61df9f00-e859-11ea-9b44-9838e5384fcf.PNG)
 
