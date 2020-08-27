@@ -60,3 +60,4 @@ MSVC는 Microsoft Visual Studio를 설치하면 자동으로 설치됨
 
 ![8](https://user-images.githubusercontent.com/31100072/91376994-61df9f00-e859-11ea-9b44-9838e5384fcf.PNG)
 
+> 2020-08-26 현재 위와 같이 설치 시 MSVC 14.2와 Qt 5.15가 설치되어 별도의 설정을 하지 않아도 Qt Creator에서 MSVC가 자동으로 연동 됨
