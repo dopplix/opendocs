@@ -24,12 +24,11 @@ cpp 참고 : ntu.edu.sg/home/ehchua/programming/cpp/cp0_Introduction.html
 
 - C++을 사용한 데스크톱 개발 선택
 
-  이외의 옵션은 추후 필요 시 설치
-
-![1](https://user-images.githubusercontent.com/31100072/91376983-5e4c1800-e859-11ea-9316-3d871d2dd937.PNG)
-
-
+  - 우측의 옵션은 Qt Creator와 연동하기 위한 최소의 옵션
+  
 ![2](https://user-images.githubusercontent.com/31100072/91376985-6015db80-e859-11ea-80ab-eb4c4168bb83.PNG)
+
+
 ![3](https://user-images.githubusercontent.com/31100072/91376986-6015db80-e859-11ea-8501-b43027eb783d.PNG)
 
 # Qt 다운로드
