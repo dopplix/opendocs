@@ -22,14 +22,14 @@ https://visualstudio.microsoft.com/ko/vs/community/
 
 cpp 참고 : ntu.edu.sg/home/ehchua/programming/cpp/cp0_Introduction.html
 
+![1](https://user-images.githubusercontent.com/31100072/91376983-5e4c1800-e859-11ea-9316-3d871d2dd937.PNG)
+![2](https://user-images.githubusercontent.com/31100072/91376985-6015db80-e859-11ea-80ab-eb4c4168bb83.PNG)
+![3](https://user-images.githubusercontent.com/31100072/91376986-6015db80-e859-11ea-8501-b43027eb783d.PNG)
+
 # Qt 다운로드
 
 https://www.qt.io/download-qt-installer
 
-
-![1](https://user-images.githubusercontent.com/31100072/91376983-5e4c1800-e859-11ea-9316-3d871d2dd937.PNG)
-![2](https://user-images.githubusercontent.com/31100072/91376985-6015db80-e859-11ea-80ab-eb4c4168bb83.PNG)
-![3](https://user-images.githubusercontent.com/31100072/91376986-6015db80-e859-11ea-8501-b43027eb783d.PNG)
 ![4](https://user-images.githubusercontent.com/31100072/91376988-60ae7200-e859-11ea-8f39-93cf76aefd26.PNG)
 ![5](https://user-images.githubusercontent.com/31100072/91376989-60ae7200-e859-11ea-833d-b6a664ca1620.PNG)
 ![6](https://user-images.githubusercontent.com/31100072/91376992-61470880-e859-11ea-89f6-8e5d6239586c.PNG)
