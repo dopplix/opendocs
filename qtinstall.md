@@ -38,7 +38,7 @@ MSVC는 Microsoft Visual Studio를 설치하면 자동으로 설치됨
   
   https://www.qt.io/download-qt-installer
 
-- email 등록
+- E-mail 등록 및 계정 설정
 
 ![4](https://user-images.githubusercontent.com/31100072/91376988-60ae7200-e859-11ea-8f39-93cf76aefd26.PNG)
 
