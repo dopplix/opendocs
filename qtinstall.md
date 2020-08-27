@@ -14,13 +14,13 @@ MSVC는 Microsoft Visual Studio를 설치하면 자동으로 설치됨
 
 ## Microsofut Visual Studio 설치
 
-무료인 Community 버젼을 설치 할 것
+- Visual Studio Community 버젼을 설치
+  
+  - Visual Studio의 무료 버젼임
+  
+  https://visualstudio.microsoft.com/ko/vs/community/
 
-https://visualstudio.microsoft.com/ko/vs/community/
-
-
-
-cpp 참고 : ntu.edu.sg/home/ehchua/programming/cpp/cp0_Introduction.html
+- cpp 참고 : ntu.edu.sg/home/ehchua/programming/cpp/cp0_Introduction.html
 
 - C++을 사용한 데스크톱 개발 선택
 
@@ -32,9 +32,11 @@ cpp 참고 : ntu.edu.sg/home/ehchua/programming/cpp/cp0_Introduction.html
 
 ![3](https://user-images.githubusercontent.com/31100072/91376986-6015db80-e859-11ea-8501-b43027eb783d.PNG)
 
-## Qt Opensource 버젼 다운로드
+## Qt Creator 설치
 
-https://www.qt.io/download-qt-installer
+- Qt Opensource 버젼 다운로드
+  
+  https://www.qt.io/download-qt-installer
 
 ![4](https://user-images.githubusercontent.com/31100072/91376988-60ae7200-e859-11ea-8f39-93cf76aefd26.PNG)
 ![5](https://user-images.githubusercontent.com/31100072/91376989-60ae7200-e859-11ea-833d-b6a664ca1620.PNG)
