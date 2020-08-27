@@ -28,10 +28,11 @@ cpp 참고 : ntu.edu.sg/home/ehchua/programming/cpp/cp0_Introduction.html
   
 ![2](https://user-images.githubusercontent.com/31100072/91376985-6015db80-e859-11ea-80ab-eb4c4168bb83.PNG)
 
+- 이후의 옵션은 모두 Default로 설치 진행
 
 ![3](https://user-images.githubusercontent.com/31100072/91376986-6015db80-e859-11ea-8501-b43027eb783d.PNG)
 
-# Qt 다운로드
+## Qt Opensource 버젼 다운로드
 
 https://www.qt.io/download-qt-installer
 
